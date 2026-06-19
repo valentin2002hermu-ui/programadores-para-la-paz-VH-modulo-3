@@ -1,0 +1,12 @@
+Es buenísimo que los barrios tengan una página o app para reportar problemas porque todo se soluciona más rápido y directo.
+Si un vecino ve algo roto y lo avisa desde su celular, se ahorra tener que ir a hacer filas o mandar cartas que nadie lee.
+Como los reportes quedan guardados en una lista que todos pueden ver, la gente no repite la misma queja dos veces.
+Esto nos ayuda como comunidad a organizarnos mejor, apoyar lo más urgente y revisar si de verdad están arreglando las cosas.
+Para los encargados de arreglar los daños también es mejor, porque les llega la información ordenada y limpita por categorías.
+Saber exactamente cuántos problemas hay en cada sector ayuda a que manden a los trabajadores a los lugares que más lo necesitan.
+Este tipo de tecnología nos da voz a los ciudadanos para dejar de quejarnos en frío y empezar a ayudar a mejorar el barrio.
+También sirve para darse cuenta de cuáles son los daños que más se repiten y buscar una solución para que no vuelvan a pasar.
+Tener una lista abierta donde se vea todo genera confianza, porque cualquiera puede revisar qué se ha arreglado y qué falta por hacer.
+Cuando la gente ve que sus reportes sí se toman en cuenta y se arreglan, se motiva mucho más a cuidar las zonas comunes.
+Aprender a programar estas herramientas es genial porque uno ve cómo el código sirve para ayudar directamente a las personas de verdad.
+En conclusión, tener estos sistemas ordenados es la mejor forma de conectar los problemas de la calle con soluciones rápidas y reales.
