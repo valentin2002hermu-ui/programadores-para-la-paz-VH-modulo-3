@@ -1,0 +1,3 @@
+Cuando pongo el comando 'node server.js' en la consola, la terminal no se cierra, se queda como esperando y me tira un mensaje abajo que dice 'Servidor ejecutándose en puerto 3000'.
+
+Si abro el navegador de internet y entro a la dirección que termina en '/estado', la página me muestra unas líneas de texto ordenadas con llaves donde me avisa que el servidor está funcionando bien y que la API comunitaria está activa.

@@ -1,0 +1,9 @@
+Sistema operativo: Es el sistema principal de la computadora, como Linux o Windows, que hace que la máquina prenda y nos deje abrir los programas y aplicaciones.
+
+Node.js: Es la herramienta que nos sirve para poder correr y ejecutar nuestro código de JavaScript directamente en la computadora sin necesidad de usar un navegador de internet.
+
+Aplicación server.js: Es el archivo que nosotros mismos creamos con código para decirle al servidor qué páginas o rutas inventar y qué tiene que responderle a la gente.
+
+Puerto: Es como una puerta digital o un número de canal especial por donde entra y sale la información que la gente pide desde el navegador.
+
+Logs: Son como un cuaderno de notas donde el servidor va escribiendo todo lo que pasa en el día, como qué usuario entró o si hubo algún error en el sistema.
