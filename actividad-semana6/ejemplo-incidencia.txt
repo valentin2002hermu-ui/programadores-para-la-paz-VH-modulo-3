@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se presenta un bache de gran tamaño en la calzada principal que dificulta el tránsito seguro de los vehículos."
+}
