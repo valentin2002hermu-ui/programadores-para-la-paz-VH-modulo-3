@@ -1,0 +1,5 @@
+1. No dejar a la vista datos privados como números de teléfono o direcciones de los vecinos.
+2. Cuidar las contraseñas usando claves difíciles y guardándolas bien protegidas.
+3. Usar conexiones seguras con HTTPS para que nadie intercepte la información.
+4. Tener un registro para saber qué usuarios entran o hacen cambios en el sistema.
+5. Darle roles estrictos a los usuarios para que solo los encargados vean datos delicados.

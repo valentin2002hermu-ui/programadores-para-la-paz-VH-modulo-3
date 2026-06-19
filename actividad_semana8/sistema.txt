@@ -1,0 +1,3 @@
+El comando 'uname -a' sirve para ver los datos del sistema operativo y saber qué versión de Linux tiene el servidor, además de mostrar qué procesador usa la máquina. El otro comando, 'whoami', lo que hace es decirnos el nombre exacto del usuario con el que estamos metidos en la terminal en ese momento.
+
+Saber usar esto es muy útil cuando uno maneja un servidor porque te ayuda a revisar si el sistema está al día para que el código corra sin problemas. También sirve para saber si entraste con los permisos correctos para hacer cambios o si estás como administrador, porque si no estás con el usuario correcto, la terminal te va a rebotar los comandos y no te va a dejar trabajar bien.
