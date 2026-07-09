@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la tarea 1 (registrar la alerta) y la tarea 2 (ver la lista de reportes).
+
+¿Por qué son las más importantes?
+Porque son la base de todo. Si los vecinos no pueden registrar sus quejas y el equipo no puede ver la lista de lo que pasa, no tenemos información real para trabajar ni para ordenar las revisiones en el territorio.
+
+Definición de 'Terminado' (Mis 3 criterios):
+1. El código funciona bien y guarda los datos sin dar errores.
+2. Lo probé yo mismo en el navegador y registra la información correctamente.
+3. El avance quedó guardado y subido al repositorio de GitHub.

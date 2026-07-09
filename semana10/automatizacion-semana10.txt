@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+Cuando un vecino llena el formulario de la plataforma Zion y se guarda un nuevo reporte en la base de datos de Supabase.
+
+¿Qué mensaje se enviaría a Telegram?
+'¡Atención equipo! Se ha recibido un nuevo reporte comunitario en el sistema. Por favor, ingresen a la plataforma para revisar los detalles del caso y asignarlo.'
+
+¿Qué información no debería enviarse por seguridad?
+Por seguridad y privacidad de los vecinos, nunca se deben enviar nombres, números de cédula, teléfonos, direcciones exactas ni ningún dato sensible que pueda exponer a la persona que hace la denuncia. El aviso en Telegram es solo una alerta general.

@@ -1,0 +1,3 @@
+1. Como vecino del barrio, quiero registrar una alerta o reporte en la plataforma para dejar evidencia clara del problema en mi comunidad.
+2. Como miembro del equipo de veeduría, quiero ver la lista completa de reportes guardados para hacerles seguimiento y saber qué revisar.
+3. Como coordinador del grupo, quiero que me llegue un aviso a Telegram cada vez que se cree un nuevo reporte para revisarlo de una vez.
