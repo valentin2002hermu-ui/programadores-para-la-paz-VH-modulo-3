@@ -1,0 +1,7 @@
+﻿Entidad: Causa
+Campos: id, titulo, descripcion, fecha
+Para que sirve: Es la propuesta o el problema que un vecino sube para mejorar el barrio (como arreglar una calle o poner luces).
+
+Entidad: Apoyo
+Campos: id, causa_id, nombre, fecha
+Para que sirve: Es la firma o el respaldo de cada vecino que esta de acuerdo con esa propuesta, para saber cuanta gente la apoya.

@@ -1,0 +1,10 @@
+﻿Durante este curso aprendi que la tecnologia no es solo escribir codigo,
+sino que es una herramienta poderosa para ayudar a la organizacion en el barrio.
+Me di cuenta de que un sistema bien pensado, como "Peticion en 3 Clics", puede
+hacer que organizar un proyecto comunitario o juntar apoyos sea mucho mas facil.
+Al aprender sobre bases de datos y servidores, entendi la gran responsabilidad
+que tenemos al manejar la informacion de la gente; la seguridad operativa
+y la privacidad de los datos son claves para que la comunidad confie en el sistema.
+La tecnologia civica realmente puede acercar a las personas a resolver problemas locales.
+Al final, me llevo la ensenanza de que programar es una forma de soberania comunitaria,
+demostrando que podemos construir soluciones seguras para empoderar a nuestro territorio.

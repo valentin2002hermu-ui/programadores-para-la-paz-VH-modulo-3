@@ -1,0 +1,5 @@
+﻿1. Un vecino entra a la plataforma y crea una causa o propuesta para mejorar el barrio.
+2. Esta propuesta se guarda de forma automática y segura en nuestra base de datos.
+3. Los demás vecinos de la comunidad entran a la página, leen la propuesta y le dan clic para apoyarla.
+4. El sistema va sumando y registrando en tiempo real cada uno de los apoyos recibidos.
+5. La plataforma genera una carta formal en PDF con la petición lista para descargar y presentar donde se necesite.

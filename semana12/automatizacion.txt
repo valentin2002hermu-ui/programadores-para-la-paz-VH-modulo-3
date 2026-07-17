@@ -1,0 +1,5 @@
+﻿Evento que activa la automatizacion: Cuando un vecino registra una nueva causa o propuesta en la plataforma.
+
+Mensaje que se envia: "¡Hola, comunidad! Se ha creado una nueva causa en la plataforma para reunir apoyos. ¡Entra a revisarla y deja tu firma!"
+
+Informacion que NO debe enviarse por seguridad: No se deben enviar datos personales como cedulas, telefonos, correos electronicos, direcciones ni comentarios privados de los vecinos. Solo se avisa del tema general de la propuesta para proteger la privacidad de todos.
